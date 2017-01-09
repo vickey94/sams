@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/loging.png</file>
+        <file>img/logo.png</file>
+        <file>img/tea_logo.png</file>
+        <file>img/head/100000.png</file>
+        <file>img/head/14416501.png</file>
+        <file>img/head/14416502.png</file>
+        <file>img/head/14416503.png</file>
+        <file>img/head/14416504.png</file>
+        <file>img/head/14416505.png</file>
+        <file>img/head/14416506.png</file>
+        <file>img/head/14416507.png</file>
+        <file>img/head/14416508.png</file>
+        <file>img/head/14416509.png</file>
+        <file>img/head/14416510.png</file>
+        <file>img/head/14416511.png</file>
+        <file>img/head/14416512.png</file>
+        <file>img/head/14416513 .png</file>
+        <file>img/head/14416514.png</file>
+        <file>img/head/14416515.png</file>
+        <file>img/head/14416516.png</file>
+        <file>img/head/14416517.png</file>
+        <file>img/head/14416518.png</file>
+        <file>img/head/14416519.png</file>
+        <file>img/head/14416520.png</file>
+        <file>img/head/14416521.png</file>
+        <file>img/head/14416522.png</file>
+        <file>img/head/14416523.png</file>
+        <file>img/head/14416524.png</file>
+        <file>img/head/14416525.png</file>
+        <file>img/head/14416526.png</file>
+        <file>img/head/14416527.png</file>
+        <file>img/head/14416528.png</file>
+        <file>img/head/14416529.png</file>
+        <file>img/head/14416530.png</file>
+        <file>img/head/14416531.png</file>
+        <file>img/head/default.png</file>
+    </qresource>
+</RCC>
